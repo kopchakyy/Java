@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BugCollection version='3.0.1' threshold='medium' effort='min'><file classname='ua.lviv.iot.part.main'><BugInstance type='NM_CLASS_NAMING_CONVENTION' priority='Normal' category='BAD_PRACTICE' message='The class name ua.lviv.iot.part.main doesn&apos;t start with an upper case letter' lineNumber='9'/></file><Error></Error><Project><SrcDir>C:\Users\user\Lab4\src\main\java</SrcDir><SrcDir>C:\Users\user\Lab4\src\test\java</SrcDir></Project></BugCollection>
